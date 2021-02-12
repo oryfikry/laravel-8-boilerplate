@@ -29,3 +29,7 @@ composer install
 ```
 php artisan serve
 ```
+screenshoot
+https://github.com/oryfikry/laravel-8-boilerplate/blob/beta-release/sc/sc1.png
+https://github.com/oryfikry/laravel-8-boilerplate/blob/beta-release/sc/sc2.png
+https://github.com/oryfikry/laravel-8-boilerplate/blob/beta-release/sc/sc3.png
