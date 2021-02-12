@@ -29,6 +29,11 @@ php artisan migrate
 ```
 php artisan serve
 ```
+#### Optional
+you can setting login page default with:
+go to vendor/laravel/ui/auth-backend/authenticatesuser
+on showloginform() replace auth.login with v_login 
+
 screenshoot
 <img src="https://github.com/oryfikry/laravel-8-boilerplate/blob/beta-release/sc/sc1.png"><br>
 <img src="https://github.com/oryfikry/laravel-8-boilerplate/blob/beta-release/sc/sc2.png"><br>
