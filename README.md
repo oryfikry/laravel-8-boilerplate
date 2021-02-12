@@ -36,7 +36,7 @@ php artisan migrate
 php artisan serve
 ```
 #### Optional
--for first register tye manually "YOUR_URL/register"
+-for first register type manually "YOUR_URL/register"
 
 you can setting login page default with:
 go to vendor/laravel/ui/auth-backend/authenticatesuser
