@@ -178,8 +178,7 @@
                         <!--begin::Copyright-->
                         <div class="text-dark order-2 order-md-1">
                             <span class="text-muted font-weight-bold mr-2">© <?= date('Y'); ?></span>
-                            <a href="https://instagram.com/ory.fikry" target="_blank"
-                                class="text-dark-75 text-hover-primary">Ory Fikry | BoilerPlate</a>
+                            <a href="#" class="text-dark-75 text-hover-primary">Ory Fikry | BoilerPlate</a>
                         </div>
                         <!--end::Copyright-->
                     </div>
