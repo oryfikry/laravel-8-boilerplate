@@ -4,7 +4,7 @@
 	<!--begin::Head-->
 	
 
-<!-- x --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /x -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 		<meta charset="utf-8" />
 		<title>OryFikry | BoilerPlates</title>
@@ -161,6 +161,4 @@
 		<!--end::Page Scripts-->
 	</body>
 	<!--end::Body-->
-
-<!-- Mirrored from preview.keenthemes.com/metronic/demo1/custom/pages/login/classic/login-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Jan 2021 09:34:47 GMT -->
 </html>
