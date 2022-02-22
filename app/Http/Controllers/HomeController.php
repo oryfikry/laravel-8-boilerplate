@@ -23,9 +23,11 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $isi['count_user'] = DB::table('users')->count();
-        $isi['menu'] = 'menu.v_menu_admin';
-        $isi['content'] = 'content.view_dashboard';
-        return view('layouts.v_template',$isi);
+        $data = array(
+            'count_user' => DB::table('users')->count(),
+            'menu'      => 'menu.v_menu_admin',
+            'content' => 'content.view_dashboard'
+        );
+        return view('layouts.v_template',$data);
     }
 }
