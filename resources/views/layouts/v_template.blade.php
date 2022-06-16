@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- x -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- x/ -->
 
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
     <!-- Google Tag Manager -->
     <!-- End Google Tag Manager -->
