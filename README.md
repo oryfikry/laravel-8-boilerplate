@@ -1,6 +1,6 @@
 # Laravel 8 Boilerplate
 
-This template is for educational only
+DISCLAIMER ! This template is for educational only
 ## Features
 - SPA CRUD (no reload with ajax)
 - Serverside Datatable with Pdf/Excel
